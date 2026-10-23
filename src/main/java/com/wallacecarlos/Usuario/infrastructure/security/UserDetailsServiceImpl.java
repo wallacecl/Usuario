@@ -1,7 +1,7 @@
 package com.wallacecarlos.Usuario.infrastructure.security;
 
-import com.wallacecarlos.aprendendospring.infrastructure.entity.Usuario;
-import com.wallacecarlos.aprendendospring.infrastructure.repository.UsuarioRepository;
+import com.wallacecarlos.Usuario.infrastructure.entity.Usuario;
+import com.wallacecarlos.Usuario.infrastructure.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

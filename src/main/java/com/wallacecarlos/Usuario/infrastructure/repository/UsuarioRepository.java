@@ -1,6 +1,6 @@
 package com.wallacecarlos.Usuario.infrastructure.repository;
 
-import com.wallacecarlos.aprendendospring.infrastructure.entity.Usuario;
+import com.wallacecarlos.Usuario.infrastructure.entity.Usuario;
 import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
